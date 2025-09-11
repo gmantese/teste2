@@ -4,10 +4,11 @@ body {
 
 p{
     color: green;
+    border: 5px dashed black;
 
 }
 
 h1{
     color: red;
-    border: 5px dashed black;
+    border: 10px solid green;
 }
