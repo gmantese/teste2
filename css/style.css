@@ -11,4 +11,6 @@ p{
 h1{
     color: red;
     border: 10px solid green;
+    font-style: italic;
+    
 }
